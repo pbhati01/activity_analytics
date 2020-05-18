@@ -1,0 +1,23 @@
+.container {
+  margin: 0 auto;
+  max-width: 720px;
+  text-align: center;
+}
+.heading {
+  font-size: 30px;
+  font-weight: bold;
+}
+.button {
+  background-color: rgba(68, 31, 230, 0.79);
+  border: none;
+  color: white;
+  padding: 5px 11px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: rgba(57, 18, 231, 0.836);
+}
